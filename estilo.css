@@ -1,0 +1,75 @@
+body {
+  font-family: helvetica;
+}
+
+img {
+  width: 10%;
+  margin: 0 10%;
+  float: left;
+}
+
+.portada {
+  background-image: url("fondo.jpeg");
+  width: 100%;
+  height: 500px;
+}
+
+.menu ul {
+  color: gray;
+  list-style: none;
+  margin-left: 65%;
+}
+li {
+  float: left;
+  margin-left: 50px;
+}
+
+.texto1 {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  clear: both;
+  padding-top: 30px;
+}
+
+.portada p {
+  color: white;
+}
+
+.boton {
+  color: white;
+  border-radius: 5px;
+  height: 30px;
+  width: 125px;
+  display: inline-block;
+
+}
+.azul {
+  background-color: #5882FA;
+}
+.verde {
+  background-color: #04B431;
+}
+.boton a:link {
+  color: white;
+  text-decoration: none;
+}
+.desarrollo {
+  text-align: center;
+  margin: 5%;
+}
+.desarrollo p {
+  margin: 0 18%;
+}
+
+.desarrollo img {
+
+}
+ .inscripccion {
+   border-bottom: 1px solid black;
+   border-top: 1px solid black;
+   text-align: center;
+   background-color: silver;
+ }
